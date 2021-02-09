@@ -1,0 +1,26 @@
+.home-container {
+  height:100%;
+  padding-top: 180px;
+  padding-left: 120px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F7F9FA 100%);
+}
+
+.home-text-title {
+  font-size: 48px;
+  line-height: 64px;
+  letter-spacing: 0.02em;
+  color: #062847;
+}
+
+.home-text-subtitle {
+  padding-top: 24px;
+  font-size: 20px;
+  line-height: 36px;
+  color: #5A6774;
+  margin-bottom: 55px;
+}
+
+.home-text-mail {
+  color: #1890FF;
+}
+

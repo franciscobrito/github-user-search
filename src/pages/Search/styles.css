@@ -1,0 +1,142 @@
+.search-container {
+  margin: 55px 100px 0 90px
+}
+
+.search-content {
+  padding: 65px 0 42px 95px;
+}
+
+.search-text-title {
+  font-size: 38px;
+  line-height: 46px;
+  color: #262626;
+}
+
+.search-input {
+  width: 676px;
+  height: 40px;
+  margin-top: 12px;
+  margin-bottom: 32px;
+  box-sizing: border-box;
+  border: 1px solid #D9D9D9;
+  border-radius: 4px;
+  background: #FFFFFF;
+}
+
+.search-placeholder {
+  padding: 8px 27px 8px 17px;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #BFBFBF;
+}
+
+.search-perfil-container {
+  height: 387px;
+  margin: 55px 100px 0 90px;
+  background: #F5F5F5;
+  border-radius: 8px;
+}
+
+.search-perfil-profile {
+  display: flex;
+  padding-bottom: 17px;
+}
+
+.search-infoloader {
+  padding-top: 25px;
+}
+
+.search-img-profile {
+  padding-top: 25px;
+  padding-left: 30px;
+}
+
+.search-image {
+  height: 280px;
+}
+
+.background-base {
+  background: #FFFFFF;
+  border: 1px solid #D9D9D9;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.search-estatistica-container {
+  height: 22px;
+  margin-top: 25px;
+  display: flex;
+}
+
+.search-rectangle-text {
+  font-size: 12px;
+  line-height: 20px;
+  justify-content: center;
+  display: flex;
+  color: #595959;
+}
+
+.entre-espacamento-profile {
+  margin-left: 44px;
+}
+
+.entre-espacamento {
+  margin-left: 8px;
+}
+
+.search-rectangle-publicos {
+  width: 163px;
+}
+
+.search-rectangle-seguidores {
+  width: 120px;
+}
+
+.search-rectangle-seguindo {
+  width: 105px;
+}
+
+.search-result-area-container {
+  width: 840px;
+  margin-top: 55px;
+  margin-left: -410px;
+}
+
+.search-result-area-content {
+  padding-left: 14px;
+  padding-top: 8px;
+}
+
+.search-result-area-title {
+  padding-bottom: 20px;
+  font-size: 20px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #1890FF;
+}
+
+.search-result-info {
+  height: 40px;
+  margin-top: 5px;
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+.search-result-info-text {
+  padding-left: 10px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #737373;
+}
+
+.btn-ver-perfil {
+  padding-left: 30px;
+  padding-bottom: 28px;
+}
+
+

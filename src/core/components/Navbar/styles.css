@@ -1,0 +1,12 @@
+.main-nav {
+    background: #1890FF;
+    height: 62px;
+}
+
+.main-nav-title {
+  font-size: 24px;
+  line-height: 32px;
+  color: #FFF;
+  padding-left: 40px;
+  padding-top: 15px;
+}

@@ -1,0 +1,10 @@
+.button-content {
+  height: 40px;
+  width: 100px;
+  background: #1890FF;
+  border-radius: 5px;
+  border: 0;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFF;
+}
